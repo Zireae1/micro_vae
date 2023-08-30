@@ -1,0 +1,105 @@
+scientific_name	node_rank	ncbi_taxon_id	taxon_id	parent_taxon_id	superkingdom
+Escherichia coli	species	562	566	565	Bacteria
+Klebsiella pneumoniae	species	573	575	573	Bacteria
+Haemophilus parainfluenzae	species	729	693	688	Bacteria
+Bacteroides fragilis	species	817	750	749	Bacteria
+Bacteroides thetaiotaomicron	species	818	751	749	Bacteria
+Bacteroides uniformis	species	820	752	749	Bacteria
+Bacteroides vulgatus	species	821	753	749	Bacteria
+Parabacteroides distasonis	species	823	754	317279	Bacteria
+Faecalibacterium prausnitzii	species	853	779	178824	Bacteria
+Streptococcus salivarius	species	1304	1139	1136	Bacteria
+Streptococcus thermophilus	species	1308	1143	1136	Bacteria
+Streptococcus parasanguinis	species	1318	1150	1136	Bacteria
+[Clostridium] symbiosum	species	1512	1307	1200766	Bacteria
+[Clostridium] leptum	species	1535	1328	1202603	Bacteria
+Bifidobacterium adolescentis	species	1680	1446	1444	Bacteria
+Bifidobacterium bifidum	species	1681	1447	1444	Bacteria
+Holdemanella biformis	species	1735	1493	1257977	Bacteria
+Methanobrevibacter smithii	species	2173	1840	1839	Archaea
+Bifidobacterium pseudocatenulatum	species	28026	12066	1444	Bacteria
+Bacteroides eggerthii	species	28111	12127	749	Bacteria
+Bacteroides ovatus	species	28116	12132	749	Bacteria
+Alistipes putredinis	species	28117	12133	198900	Bacteria
+Odoribacter splanchnicus	species	28118	12134	234833	Bacteria
+Veillonella parvula	species	29466	13194	13193	Bacteria
+[Ruminococcus] gnavus	species	33038	15554	488299	Bacteria
+[Ruminococcus] torques	species	33039	15555	488299	Bacteria
+Bilophila wadsworthia	species	35833	17748	17747	Bacteria
+[Eubacterium] eligens	species	39485	20876	1489	Bacteria
+Dorea formicigenerans	species	39486	20877	153695	Bacteria
+[Eubacterium] hallii	species	39488	20879	1489	Bacteria
+Eubacterium ramulus	species	39490	20881	1489	Bacteria
+[Eubacterium] rectale	species	39491	20882	151488	Bacteria
+[Eubacterium] siraeum	species	39492	20883	1202603	Bacteria
+Eubacterium ventriosum	species	39496	20887	1489	Bacteria
+Veillonella atypica	species	39777	21141	13193	Bacteria
+Veillonella dispar	species	39778	21142	13193	Bacteria
+Ruminococcus bromii	species	40518	21788	1102	Bacteria
+Ruminococcus callidus	species	40519	21789	1102	Bacteria
+Blautia obeum	species	40520	21790	488299	Bacteria
+Sutterella wadsworthensis	species	40545	21813	21812	Bacteria
+Ruminococcus lactaris	species	46228	26782	1102	Bacteria
+Parabacteroides merdae	species	46503	27028	317279	Bacteria
+Bacteroides stercoris	species	46506	27031	749	Bacteria
+Bacteroides caccae	species	47678	28081	749	Bacteria
+Holdemania filiformis	species	61171	40003	40002	Bacteria
+Collinsella aerofaciens	species	74426	51147	75891	Bacteria
+Eggerthella lenta	species	84112	59840	59839	Bacteria
+Dorea longicatena	species	88431	63680	153695	Bacteria
+Streptococcus australis	species	113107	85481	1136	Bacteria
+Coprococcus catus	species	116085	87884	15557	Bacteria
+Hungatella hathewayi	species	154046	121700	1324034	Bacteria
+Prevotella copri	species	165179	131662	765	Bacteria
+Roseburia intestinalis	species	166486	132821	768	Bacteria
+Anaerotruncus colihominis	species	169435	135371	202683	Bacteria
+Bacteroides massiliensis	species	204516	167506	749	Bacteria
+[Clostridium] bolteae	species	208479	171128	1200766	Bacteria
+Alistipes finegoldii	species	214856	177020	198900	Bacteria
+Bifidobacterium longum	species	216816	178794	1444	Bacteria
+Dialister invisus	species	218538	180411	21282	Bacteria
+Akkermansia muciniphila	species	239935	199073	199072	Bacteria
+Bacteroides cellulosilyticus	species	246787	205010	749	Bacteria
+Intestinibacter bartlettii	species	261299	218150	1199913	Bacteria
+Bacteroides salyersiae	species	291644	242304	749	Bacteria
+Bacteroides nordii	species	291645	242305	749	Bacteria
+Flavonifractor plautii	species	292800	243353	733747	Bacteria
+Roseburia hominis	species	301301	250693	768	Bacteria
+Bacteroides plebeius	species	310297	258838	749	Bacteria
+Bacteroides coprocola	species	310298	258839	749	Bacteria
+Parabacteroides goldsteinii	species	328812	275671	317279	Bacteria
+Alistipes onderdonkii	species	328813	275672	198900	Bacteria
+Alistipes shahii	species	328814	275673	198900	Bacteria
+Bacteroides intestinalis	species	329854	276644	749	Bacteria
+[Clostridium] asparagiforme	species	333367	279830	1200766	Bacteria
+Bacteroides finegoldii	species	338188	284267	749	Bacteria
+Bacteroides dorei	species	357276	300985	749	Bacteria
+[Clostridium] citroniae	species	358743	302357	1200766	Bacteria
+Roseburia inulinivorans	species	360807	304275	768	Bacteria
+Bacteroides xylanisolvens	species	371601	314032	749	Bacteria
+Parabacteroides johnsonii	species	387661	328521	317279	Bacteria
+Coprococcus comes	species	410072	348661	15557	Bacteria
+Adlercreutzia equolifaciens	species	446660	381642	381950	Bacteria
+Paraprevotella clara	species	454154	388117	492340	Bacteria
+Paraprevotella xylaniphila	species	454155	388118	492340	Bacteria
+Ruminococcus sp. 5_1_39BFAA	species	457412	391035	1102	Bacteria
+Clostridiales bacterium 1_7_47FAA	species	457421	391039	21143	Bacteria
+Burkholderiales bacterium 1_1_47	species	469610	402055	56979	Bacteria
+Gordonibacter pamelaeae	species	471189	403509	526324	Bacteria
+Barnesiella intestinihominis	species	487174	417585	337708	Bacteria
+Parasutterella excrementihominis	species	487175	417586	492341	Bacteria
+Ruminococcaceae bacterium D16	species	552398	472340	472339	Bacteria
+Bacteroides clarus	species	626929	515302	749	Bacteria
+Alistipes indistinctus	species	626932	515305	198900	Bacteria
+Anaerostipes hadrus	species	649756	530892	169936	Bacteria
+Lachnospiraceae bacterium 1_1_57FAA	species	658081	538063	151488	Bacteria
+Lachnospiraceae bacterium 2_1_58FAA	species	658082	538064	151488	Bacteria
+Lachnospiraceae bacterium 3_1_57FAA_CT1	species	658086	538068	151488	Bacteria
+Lachnospiraceae bacterium 7_1_58FAA	species	658087	538069	151488	Bacteria
+Lachnospiraceae bacterium 5_1_63FAA	species	658089	538071	151488	Bacteria
+Lachnospiraceae bacterium 3_1_46FAA	species	665950	544637	151488	Bacteria
+Lachnospiraceae bacterium 8_1_57FAA	species	665951	544638	151488	Bacteria
+Bacteroides faecis	species	674529	551812	749	Bacteria
+Coprobacter fastidiosus	species	1099853	850530	1065358	Bacteria
+Alistipes obesi	species	1118061	865684	198900	Bacteria
+Alistipes senegalensis	species	1288121	1012139	198900	Bacteria
