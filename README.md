@@ -1,6 +1,6 @@
 # micro_vae contents:
 
-**data/** - folder with data tables
+**data/** - folder with data tables (note: metadata has column "uid" that corresponds to row index in the abundance data table)
 
 **VAE_b2b.ipynb** - train model that reconstructs binary to binary data (data binarization included)
 
